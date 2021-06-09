@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shailesz
 - 👀 I’m interested in ... cameras and computers
 - 🌱 I’m currently learning ... react.js, java, rust, AWS and more, drop some tips :D
-- 💞️ I’m looking to collaborate on ... nothing rn
+- 💞️ I’m looking to collaborate on ... some projects
 - 📫 How to reach me ... @shailesz on all major platforms
 - 🎏 Sometimes I stream here: https://www.twitch.tv/shailesz
 
