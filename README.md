@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... react.js, java, rust, AWS and life :D
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... @shailesz on all major platforms
-- 🎏 Sometimes I stream here: https://www.twitch.tv/shailesz
 
 <!---
 shailesz/shailesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
