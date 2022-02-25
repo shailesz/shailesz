@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shailesz
 - 👀 I’m interested in ... cameras and computers
-- 🌱 I’m currently learning ... react.js, java, rust, AWS and life :D
+- 🌱 I’m currently learning ... react.js, ~java~, rust and life :D
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... @shailesz on all major platforms
 
